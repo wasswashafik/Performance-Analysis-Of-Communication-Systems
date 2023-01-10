@@ -1,0 +1,2 @@
+- Each matlab code is independent code.
+- "Compare_Schemes.m" depends upon the mat files to run.
